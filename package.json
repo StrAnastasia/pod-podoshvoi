@@ -1,10 +1,14 @@
 {
   "name": "pod_podoshvoi",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "https://stranastasia.github.io/pod-podoshvoi/",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node bot"
+    "start": "node bot",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +17,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "gh-pages": "^3.1.0",
     "mongoose": "^5.12.7",
     "telegraf": "^4.3.0"
   }
