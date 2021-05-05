@@ -1,0 +1,55 @@
+BOT_TOKEN = 1682197253:AAFIme4KXO7LHhFg8cQqjdd1uKpn9LAkPfo
+
+Unhandled error while processing {
+  update_id: 212743696,
+  message: {
+    message_id: 197,
+    from: {
+      id: 341261652,
+      is_bot: false,
+      first_name: 'Анастасия',
+      last_name: 'Стрыгина',
+      username: 'kjet_il',
+      language_code: 'ru'
+    },
+    chat: {
+      id: 341261652,
+      first_name: 'Анастасия',
+      last_name: 'Стрыгина',
+      username: 'kjet_il',
+      type: 'private'
+    },
+    date: 1619096037,
+    text: 'рэп'
+  }
+}
+
+
+
+
+
+Unhandled error while processing {
+  update_id: 212743726,
+  message: {
+    message_id: 247,
+    from: {
+      id: 331251560,
+      is_bot: false,
+      first_name: 'Danila',
+      last_name: 'Nikitin',
+      username: 'Rizz1a',
+      language_code: 'ru'
+    },
+    chat: {
+      id: 331251560,
+      first_name: 'Danila',
+      last_name: 'Nikitin',
+      username: 'Rizz1a',
+      type: 'private'
+    },
+    date: 1619097958,
+    text: 'да'
+  }
+}
+
+
